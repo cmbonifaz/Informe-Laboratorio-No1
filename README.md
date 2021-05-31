@@ -1,15 +1,16 @@
 # Informe de laboratorio N°1 - Herramienta Github
 
-##### Integrantes:
+**Integrantes:**
+
 Christian Bonifaz, Mateo Calderon, Ariel Guano, Erick Mera, Mario Rosas
 
-##### Grupo N°: 4
+**Grupo N°:** 4
 
-##### NRC: 3725
+**NRC:** 3725
 
-##### Docente: Ing. Cesar Osorio
+**Docente:** Ing. Cesar Osorio
 
-##### Tema: Control de Versiones
+**Tema:** Control de Versiones
 
 #### OBJETIVOS
 1.	Adquirir conocimientos dentro del campo de la programación colectiva para realizar un proyecto grupal mediante repositorios virtuales como github.
@@ -18,11 +19,13 @@ Christian Bonifaz, Mateo Calderon, Ariel Guano, Erick Mera, Mario Rosas
 3.	Aprovechar las funciones que nos brinda las aplicaciones git y github aplicando nuestro conocimiento en programación en lenguaje c/c++ para la creación de un código y que este sea subido a un repositorio virtual en github.
 
 #### MARCO TEÓRICO
-##### GIT
+
+**GIT**
 
 Git es una herramienta que realiza una función del control de versiones de código de forma distribuida es el sistema de control de versiones moderno más utilizado del mundo, con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005, Con ella podemos mantener un historial completo de versiones y podemos movernos, como si tuviéramos un puntero en el tiempo, por todas las revisiones de código y desplazarnos una manera muy ágil, Además tiene un sistema de trabajo con ramas que lo hace especialmente potente. En cuanto a la funcionalidad de las ramas, las mismas están destinadas a provocar proyectos divergentes de un proyecto principal, para hacer experimentos o para probar nuevas funcionalidades. Con esto nos damos cuenta que Git es una herramienta muy útil e indispensable en la programación y es importante saber utilizarla de manera correcta para poder ser un buen programador.
 
-##### GITHUB
+**GITHUB**
+
 Github es un portal creado para alojar el código de las aplicaciones de cualquier desarrollador, y que fue comprada por Microsoft en junio del 2018. La plataforma está creada para que los desarrolladores suban el código de sus aplicaciones y herramientas, y que como usuario no sólo puedas descargarte la aplicación, sino también entrar a su perfil para leer sobre ella o colaborar con su desarrollo. Esto se debe a que GitHub es una plataforma de gestión y organización de proyectos basada en la nube que incorpora las funciones de control de versiones de Git. 
 
 Además, la interfaz de usuario de GitHub es más fácil de usar que la de Git, lo que la hace accesible para personas con pocos o ningún conocimiento técnico. Esto significa que se puede incluir a más miembros del equipo en el progreso y la gestión de un proyecto, haciendo que el proceso de desarrollo sea más fluido.
